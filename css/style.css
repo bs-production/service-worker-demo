@@ -139,7 +139,10 @@ ul {
   text-align: center;
   margin-bottom: 30px;
 }
-
+.online, .offline {
+  text-align: center;
+  font-size: 18px;
+}
 /***------------ Index ------------***/
 #fixed-contact a span {
   text-transform: uppercase;
